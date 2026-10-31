@@ -1,4 +1,4 @@
-// Entry point: WS relay + Hono app
+// Entry point: WS relay + Hono appu
 import { Hono } from 'hono';
 import { websocketHandler } from './core/relay';
 import { getKVPrxList } from './core/lists';
